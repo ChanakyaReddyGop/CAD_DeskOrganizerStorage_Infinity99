@@ -4,7 +4,7 @@
 <!-- Generated: 2026-10-13T03:50:02.876Z -->
 
 > [!NOTE]
-> This devlog is mirrored from [Half Life](https://halflife.hackclub.com). Editing it here will not change the platform's copy, and the next sync overwrites this file.
+> This devlog is mirrored from [Half Life](https://halflife.hackclub.com) – [open the project](https://halflife.hackclub.com/projects/cmv5ttv8w0kre01n0ipxebf40). Editing it here will not change the platform's copy, and the next sync overwrites this file.
 
 > A desk organizer that has shelves, a place to put my phone on charge, storage drawers, and looks look.
 
